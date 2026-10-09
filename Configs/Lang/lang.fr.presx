@@ -1,0 +1,7 @@
+<?php
+// @author: C.A.D. BONDJE DOUE
+// @file: %modules%/com/igkdev/balafon/module_demonstration/Configs/Lang/lang.fr.presx
+// @date: 20261009 08:58:04
+
+$l["title.default"] = "Home";
+

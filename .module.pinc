@@ -1,0 +1,30 @@
+<?php
+// @author: C.A.D. BONDJE DOUE
+// @file: %modules%/com/igkdev/balafon/module_demonstration/.module.pinc.php
+// @date: 20261009 08:58:04
+namespace com\igkdev\balafon\module_demonstration;
+
+
+// + | ------------------------------------------------
+// + | please use $reg closure var to register Module function 
+// + |
+
+// $reg('initDoc', function($doc){ /* call in view-build-context to initialize the document */ });
+
+
+// + module definition
+return [
+//------------------------------------------------
+// define entry name space
+//
+"entry_NS"=>\com\igkdev\balafon\module_demonstration::class,
+//------------------------------------------------
+// version
+//
+"version"=>"1.0",
+//-------------------------------------------------
+// author
+//
+"author"=>"C.A.D. BONDJE DOUE"
+];
+
