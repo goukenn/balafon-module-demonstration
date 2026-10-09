@@ -1,6 +1,7 @@
 {
     "name": "com/igkdev/balafon/module_demonstration",
     "author": "C.A.D. BONDJE DOUE",
+    "description":"Module demonstration",
     "version": "1.0",
     "require": null
 }
